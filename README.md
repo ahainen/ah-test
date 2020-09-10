@@ -1,2 +1,2 @@
-# ah-test
+# Fuzzy Knights
 test/learning
